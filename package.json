@@ -1,6 +1,6 @@
 {
   "name": "asset-rack-livescript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Livescript support for asset-rack.",
   "main": "index.js",
   "scripts": {
