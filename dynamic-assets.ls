@@ -1,4 +1,6 @@
-# TODO: Directory asset for livescript asset...
+# TODO: THIS IS INCOMPLETE, BUGGY
+
+#Directory asset for livescript asset...
 DynamicAssets = la.DynamicAssets
 assets = new rack.Rack([
     new DynamicAssets({
